@@ -48,8 +48,8 @@ TechWizardz POS Frontend - Point-of-Sale frontend I'm building as part of a team
 ### GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadYaseen200&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadYaseen200&theme=tokyonight" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=MuhammadYaseen200&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="165"/>
+<img src="https://komarev.com/ghpvc/?username=MuhammadYaseen200&label=Profile+Views&color=6366f1&style=flat" alt="Profile Views" height="28"/>
 </p>
 
 ---
